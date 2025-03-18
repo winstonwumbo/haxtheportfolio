@@ -1,0 +1,42 @@
+{
+  "id": "f6f3de44-39ad-48c5-9151-9161fedecdb7",
+  "title": "hax-the-portfolio",
+  "author": "",
+  "description": "",
+  "license": "by-sa",
+  "metadata": {
+    "author": {},
+    "site": {
+      "settings": {
+        "lang": "en"
+      },
+      "name": "hax-the-portfolio",
+      "domain": null,
+      "created": 1742315690,
+      "updated": 1742315690
+    },
+    "theme": {
+      "variables": {}
+    },
+    "node": {
+      "fields": {}
+    }
+  },
+  "items": [
+    {
+      "id": "item-fbdf8604-995c-4c4f-b7d6-8bf6d544e868",
+      "indent": 0,
+      "location": "pages/item-fbdf8604-995c-4c4f-b7d6-8bf6d544e868/index.html",
+      "slug": "welcome",
+      "order": 0,
+      "parent": null,
+      "title": "Welcome to hax-the-portfolio",
+      "description": "",
+      "metadata": {
+        "created": 1742315690,
+        "updated": 1742315690
+      }
+    }
+  ],
+  "location": "/_sites/hax-the-portfolio/index.html"
+}
