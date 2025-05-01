@@ -16,7 +16,8 @@
     </link>
     <description>
         <![CDATA[ 
-<grid-plate item-margin="16" item-padding="16" layout="1-1" disable-responsive><media-image source="files/ProfProfile.jpeg" slot="col-2" accent-color="grey" size="wide" offset="none" round style="--ddd-radius-circle: 20px;" alt="Image of Winston J. White"></media-image>
+<grid-plate item-margin="16" item-padding="16" layout="2-1" disable-responsive><media-image source="files/ProfProfile.jpeg" slot="col-2" accent-color="grey" size="wide" offset="none" round style="--ddd-radius-circle: 20px;" alt="Image of Winston J. White"></media-image>
+
 <h2 id="header-27e46ab1-304b-c844-8bc5-ad4ccc2eb329" slot="col-1" data-font-family="secondary" data-font-size="l" style="color: #5898D7;">Winston White </h2>
 <h2 slot="col-1" id="header-f0f1ef70-862f-6a7d-02f8-09303803afbe" data-margin="m" style="color: #2B72B9;" data-font-family="secondary">NASA Pathways, GPS Lab, HAX Lab, Penn State</h2></grid-plate>
 <p>Welcome to my portfolio site, built with HAXcms! I'm a fourth-year Cybersecurity Analytics student at Penn State University &#8212; University Park. Explore here to learn more about my experience and passions in web technology, CLI tooling, and network infrastructure!</p>
