@@ -52,9 +52,18 @@
       "description": "",
       "metadata": {
         "created": 1742315690,
-        "updated": 1742315690
+        "updated": 1742315690,
+        "files": [
+          {
+            "path": "/var/home/ruyu/Workspace/self-hosted/haxtheportfolio/files/ProfProfile.jpeg",
+            "fullUrl": "//var/home/ruyu/Workspace/self-hosted/haxtheportfolio/files/ProfProfile.jpeg",
+            "url": "files/ProfProfile.jpeg",
+            "type": "image/jpeg",
+            "name": "ProfProfile.jpeg",
+            "size": 75724
+          }
+        ]
       }
     }
-  ],
-  "location": "/_sites/hax-the-portfolio/index.html"
+  ]
 }
