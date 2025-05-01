@@ -49,10 +49,10 @@
       "order": 0,
       "parent": null,
       "title": "Welcome to hax-the-portfolio",
-      "description": "",
+      "description": "\nWinston White \nNASA Pathways, GPS Lab, HAX Lab, Penn State\nWelcome to my portfolio site, built with HAXcms! I'm a fourth-year Cybersecurity Analytics student at Penn State University &#8212; Univers",
       "metadata": {
         "created": 1742315690,
-        "updated": 1742315690,
+        "updated": 1746058233,
         "files": [
           {
             "path": "/var/home/ruyu/Workspace/self-hosted/haxtheportfolio/files/ProfProfile.jpeg",
@@ -62,7 +62,13 @@
             "name": "ProfProfile.jpeg",
             "size": 75724
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "videos": {},
+        "images": {}
       }
     }
   ]
