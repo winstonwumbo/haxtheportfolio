@@ -14,7 +14,7 @@
         "publishPagesOn": true
       },
       "created": 1742315690,
-      "updated": 1763007425,
+      "updated": 1763007568,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -52,7 +52,7 @@
       "description": "Winston White NASA Pathways, HAX Lab, Penn StateWelcome to my portfolio site, built with HAXcms! I'm a fourth-year Cybersecurity Analytics student at Penn State University — Univers",
       "metadata": {
         "created": 1742315690,
-        "updated": 1763007425,
+        "updated": 1763007568,
         "files": [
           {
             "path": "/var/home/ruyu/Workspace/self-hosted/haxtheportfolio/files/ProfProfile.jpeg",
