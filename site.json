@@ -61,6 +61,14 @@
             "type": "image/jpeg",
             "name": "ProfProfile.jpeg",
             "size": 75724
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/self-hosted/haxtheportfolio/files/hax.png",
+            "fullUrl": "//var/home/ruyu/Workspace/self-hosted/haxtheportfolio/files/hax.png",
+            "url": "files/hax.png",
+            "type": "image/png",
+            "name": "hax.png",
+            "size": 343118
           }
         ],
         "published": true,
