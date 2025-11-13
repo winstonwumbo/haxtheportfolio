@@ -85,6 +85,14 @@
             "type": "image/png",
             "name": "nasa-pathways.png",
             "size": 2317026
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/self-hosted/haxtheportfolio/files/nasa-pathways_1.png",
+            "fullUrl": "//var/home/ruyu/Workspace/self-hosted/haxtheportfolio/files/nasa-pathways_1.png",
+            "url": "files/nasa-pathways_1.png",
+            "type": "image/png",
+            "name": "nasa-pathways_1.png",
+            "size": 2317026
           }
         ],
         "published": true,
