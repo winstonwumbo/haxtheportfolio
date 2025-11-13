@@ -69,6 +69,14 @@
             "type": "image/png",
             "name": "hax.png",
             "size": 343118
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/self-hosted/haxtheportfolio/files/nix.png",
+            "fullUrl": "//var/home/ruyu/Workspace/self-hosted/haxtheportfolio/files/nix.png",
+            "url": "files/nix.png",
+            "type": "image/png",
+            "name": "nix.png",
+            "size": 37590
           }
         ],
         "published": true,
