@@ -14,7 +14,7 @@
         "publishPagesOn": true
       },
       "created": 1742315690,
-      "updated": 1763001497,
+      "updated": 1763001537,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -127,16 +127,20 @@
       "id": "item-39f0b654-b9d0-49c1-9b8c-8b4b3860bdae",
       "indent": 0,
       "location": "pages/item-39f0b654-b9d0-49c1-9b8c-8b4b3860bdae/index.html",
-      "slug": "page",
+      "slug": "about",
       "order": 2,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "About",
+      "description": "\n\n",
       "metadata": {
         "created": 1763001522,
-        "updated": 1763001522,
-        "images": [],
-        "videos": []
+        "updated": 1763001537,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
