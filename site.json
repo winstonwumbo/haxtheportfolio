@@ -14,7 +14,7 @@
         "publishPagesOn": true
       },
       "created": 1742315690,
-      "updated": 1763019963,
+      "updated": 1763076066,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -123,14 +123,14 @@
       "id": "item-f33dede7-3e94-498f-8715-71cc16dd2cc4",
       "indent": 0,
       "location": "pages/item-f33dede7-3e94-498f-8715-71cc16dd2cc4/index.html",
-      "slug": "experience",
+      "slug": "cv",
       "order": 1,
       "parent": null,
-      "title": "Experience",
+      "title": "CV",
       "description": "\n\n",
       "metadata": {
         "created": 1763001436,
-        "updated": 1763001497,
+        "updated": 1763076066,
         "images": {},
         "videos": {},
         "published": true,
