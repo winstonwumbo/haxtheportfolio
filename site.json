@@ -77,6 +77,14 @@
             "type": "image/png",
             "name": "nix.png",
             "size": 37590
+          },
+          {
+            "path": "/var/home/ruyu/Workspace/self-hosted/haxtheportfolio/files/nasa-pathways.png",
+            "fullUrl": "//var/home/ruyu/Workspace/self-hosted/haxtheportfolio/files/nasa-pathways.png",
+            "url": "files/nasa-pathways.png",
+            "type": "image/png",
+            "name": "nasa-pathways.png",
+            "size": 2317026
           }
         ],
         "published": true,
